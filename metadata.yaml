@@ -1,0 +1,38 @@
+_repo: Inferno-Legenden_45916
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Schering, Emil
+    birthdate: 1873
+    deathdate: 1951
+    gutenberg_agent_id: '26434'
+    url: http://www.gutenberg.org/2009/agents/26434
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+description: ''
+gutenberg_issued: '2014-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45916'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, Swedish -- 19th century -- Biography'
+- !lcsh 'Dramatists, Swedish -- 19th century -- Biography'
+- !lcc 'PT'
+- !lcsh 'Strindberg, August, 1849-1912'
+- !lcsh 'Autobiographical fiction'
+title: Inferno; Legenden
+url: http://www.gutenberg.org/ebooks/45916
