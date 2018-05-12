@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1609
     wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45916#Inferno-Legenden
 gutenberg_issued: '2014-06-08'
 gutenberg_type: Text
 identifiers:
